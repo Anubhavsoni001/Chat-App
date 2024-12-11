@@ -42,5 +42,6 @@ Note :Ensure your WebSocket configuration is properly set up.
 
 - Spring Boot for backend
 - WebSocket for real-time communication
-- Thymeleaf for frontend templates
+- Thymeleaf and Javascript for frontend templates
+- 
 - Maven for dependency management 
